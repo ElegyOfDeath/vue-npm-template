@@ -2,7 +2,7 @@
   "name": "vue-npm-template",
   "version": "0.0.1",
   "private": false,
-  "main": "lib/vue-npm-template.umd.min",
+  "main": "lib/vue-npm-template.common.js",
   "license": "MIT",
   "description": "",
   "keywords": [],
